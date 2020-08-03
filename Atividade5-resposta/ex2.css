@@ -1,0 +1,32 @@
+#corpo {
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.um {
+    background-color: lightslategray;
+    float: left;
+    padding: 2px;
+    margin: 1px;
+    min-width: 300px;
+    max-width: 32%;
+}
+
+.dois {
+    background-color: lightpink;
+    float: left;
+    padding: 2px;
+    margin: 1px;
+    min-width: 300px;
+    max-width: 32%;
+}
+
+.tres {
+    background-color: lightskyblue;
+    float: left;
+    padding: 2px;
+    margin: 1px;
+    min-width: 300px;
+    max-width: 32%;
+}
